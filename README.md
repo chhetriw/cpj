@@ -1,4 +1,1 @@
 # firstAppInAndroid
-# firstAppInAndroid
-# firstAppInAndroid
-# firstAppInAndroid
